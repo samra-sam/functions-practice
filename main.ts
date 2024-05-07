@@ -1,3 +1,5 @@
+//practice
+
 function welcome(){
     console.log("Aasalam o alaikum \n");
 }
